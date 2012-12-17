@@ -1,0 +1,10 @@
+[{
+  "@id": "urn:uuid:61cedda6-fb0c-4def-b03b-7458b7074d8b",
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+    "@id": "http://purl.org/openapp/server/GraphWriter"
+  },
+  "http://purl.org/openapp/server/implementation": {
+    "@value": "org.openapplication.graph.turtle.TurtleStreamer",
+    "@type": "http://purl.org/openapp/server/javaFQName"
+  }
+}]
