@@ -1,0 +1,12 @@
+[{
+  "@id": "urn:uuid:6164e395-2c66-4594-ac60-4160447d8fc2",
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+    "@id": "http://purl.org/openapp/server/GraphReader"
+  }, {
+    "@id": "http://purl.org/openapp/server/GraphWriter"
+  }],
+  "http://purl.org/openapp/server/implementation": {
+    "@value": "org.openapplication.graph.jsonld.JSONLDStreamer",
+    "@type": "http://purl.org/openapp/server/javaFQName"
+  }
+}]
